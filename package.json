@@ -13,7 +13,7 @@
   },
   "keywords": ["logging", "sysadmin", "tools", "winston", "graylog2"],
   "dependencies": {
-    "compress-buffer": ">=0.5.1"
+    "compress-buffer": "1.1.0"
   },
   "devDependencies": {
     "winston": "0.4.x",
