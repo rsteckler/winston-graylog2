@@ -1,7 +1,7 @@
 {
   "name": "winston-graylog2",
   "description": "A graylog2 transport for winston",
-  "version": "0.1.10",
+  "version": "0.1.11",
   "author": "Flite, Inc. http://www.flite.com",
   "contributors": [
       {
@@ -9,7 +9,7 @@
       }],
   "repository": {
     "type": "git",
-    "url": "http://github.com/flite/winston-graylog2.git"
+    "url": "http://github.com/rsteckler/winston-graylog2.git"
   },
   "keywords": ["logging", "sysadmin", "tools", "winston", "graylog2"],
   "dependencies": {
